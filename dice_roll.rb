@@ -1,3 +1,3 @@
 def roll
-puts 1..6
+rand(6)
 end
